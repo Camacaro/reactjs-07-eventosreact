@@ -4,8 +4,9 @@ import Formulario from './componentes/Formulario';
 import Eventos from './componentes/Eventos';
 
 class App extends Component {
-
-	token = '7XJ6RDWOUTKKZHGM7ACJ';
+	
+	// Se debe poner el token de la api
+	token = '';
 
 	ordernar = 'date';
 
