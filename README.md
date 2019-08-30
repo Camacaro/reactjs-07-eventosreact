@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Instalar paquetes
 `npm install`
 
+## Intrucciones
+Se debe generar un token para el api y colocar en app.js
+
 ## Available Scripts
 
 In the project directory, you can run:
